@@ -13,4 +13,5 @@
 @media(max-width:900px){.brand-name small{font-size:9px!important}.hero .eyebrow{font-size:11px!important}.hero-foot{font-size:11px!important}.section-heading>p{max-width:280px}.person-title>span{max-width:none;font-size:12px!important}.contact-methods{overflow-wrap:anywhere}}
 @media(max-width:700px){.section-heading>p{max-width:none}.hero .eyebrow{font-size:11px!important}.hero-foot{font-size:11px!important}.person-title>span{max-width:115px;font-size:11px!important}.hero-photo{background-position:center top}.topbar-inner{font-size:11px}.contact-methods{column-gap:20px}.footer-bottom{font-size:11px!important}.brand-name small{font-size:9px!important}}
 .enquiry-form fieldset{border:0;padding:0;margin:0;min-width:0}.section{position:relative}.anchor-alias{position:absolute;top:0;left:0}.enquiry-form fieldset .form-note{font-size:12px!important;color:#677262!important;margin-top:14px!important}.enquiry-form .form-status{margin-top:18px!important}
+.article-page-heading h1 em{color:#8b7654}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
